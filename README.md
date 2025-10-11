@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Donna714
-- 👀 I’m interested in Fandoms,Bytebeats,GDI Malwares,Tech Related Stuff,Gaming 
-- 🎥 I’m currently Making: A Youtube Video (Sometimes)
+- 👋 Hi, I’m @NixyTech
+- 👀 I’m interested in Bytebeats,GDI Malwares,Tech Related Stuff,Gaming 
+- 🎥 I’m currently Making: A Youtube Video (Sometimes), Or Malware Stuff I guess
 - 📫 How to reach me: (You Cant)
-- 😄 Pronouns: NixyTech,Nixy,Donna,Mogya
-- ℹ️ also There Is Noting Much On This repository so yeah im Probably Gonna Add Some Details abt Me Soon
+- 😄 Pronouns: Any pronouns
+- 💬 Always Active On Discord And YouTube (Except on the school and busy time) 
+- ℹ️ Im a Suspects and Niko Oneshot Fan imo
+- ✅ So thats all apparently about me I guess
 
 <!---
 Donna714/Donna714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
