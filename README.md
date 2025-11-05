@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NixyTech
-- 👀 I’m interested in Bytebeats,GDI Malwares,Tech Related Stuff,Gaming 
+- 👋 Hi, I’m @KateTechAndStuff
+- 👀 I’m interested in Bytebeats,GDI Malwares,Tech Related Stuff, Gaming, Drawing
 - 🎥 I’m currently Making: A Youtube Video (Sometimes), Or Malware Stuff I guess
 - 📫 How to reach me: NixyTech3264@gmail.com (My Useless acc that I'm using for this lol) 
 - 😄 Pronouns: Any pronouns
