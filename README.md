@@ -4,6 +4,7 @@
 - 👋 Hi, I’m @KateTechAndStuffs (But you can just call me Kate or Katie)
 - 👀 I’m interested in Bytebeats,GDI Malwares,Tech Related Stuff, Gaming, Drawing
 - 🎥 I’m currently Making: A Youtube Video (Sometimes), Or Malware Stuff I guess
+- 🌱 I’m currently Coding in: C# and Forms
 - 📫 How to reach me: NixyTech3264@gmail.com (My Useless acc that I'm using for this lol)
 - 😄 Pronouns: Any pronouns
 - 💬 Always Active On Discord And YouTube (Except on the school and busy time)
