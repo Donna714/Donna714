@@ -13,7 +13,7 @@
 - ✅ So thats all apparently about me I guess
 ---------------------------------------------------------------------------------------
 *Laptop Specs*
-- Laptop That I Have: Aspire A514-52G
+- Laptop That I Have: Acer Aspire A514-52G
 - Processor: Intel Core i5-10210U (@1.60GHz/2.11GHz)
 - Graphics: Intel(R) UHD Graphics (128 MB)
 - Memory: 8GB DDR4 (expandable)
