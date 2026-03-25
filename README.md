@@ -18,7 +18,7 @@
 - Graphics: Intel(R) UHD Graphics (128 MB)
 - Memory: 8GB DDR4 (expandable)
 - Storage: 954GB NVMe SSD (ADATA LEGEND 710)
-- Oprating System: Windows 10 22H2
+- Oprating System: Windows 10 22H2/Kubuntu
 ---------------------------------------------------------------------------------------
 <!---
 Donna714/Donna714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
