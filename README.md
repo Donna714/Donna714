@@ -2,15 +2,14 @@
 
 ---------------------------------------------------------------------------------------
 *About Me*
-- 👋 Hi, I’m @finnyclover (But you can just call me Finny or Finn)
+- 👋 Hi, I’m Wandaguy lolz
 - 👀 I’m interested in Bytebeats,GDI Malwares,Tech Related Stuff, Gaming, Drawing
-- 🎥 I’m currently Making: A Youtube Video (Sometimes), Or Malware Stuff I guess
+- 🎥 I’m currently [doing]: trying new things
 - 🌱 I’m currently Coding in: C#/Forms, python, html
 - 📫 How to reach me: NixyTech3264@gmail.com
 - 😄 Pronouns: Any pronouns
 - 💬 Always Active On Discord And YouTube (Except on the school and busy time)
-- ℹ️ Im a Suspects, Deltarune,and Niko Oneshot, and Kaiju Paradise Guy
-- ✅ So thats all apparently about me I guess
+- ℹ️ BWI IS DISPANDED █████
 ---------------------------------------------------------------------------------------
 *Laptop Specs*
 - Laptop That I Have: Acer Aspire A514-52G
@@ -19,7 +18,7 @@
 - Memory: 8GB DDR4 (expandable)
 - Storage: 954GB (1TB) NVMe SSD (ADATA LEGEND 710)
 - 2nd Storage: 931GB (1TB) Port SSD (Seagate Basic SCSI)
-- Oprating System: Windows 10 1903 / Windows 10 2019 LTSC
+- Oprating System: Windows 10 22h2
 ---------------------------------------------------------------------------------------
 <!---
 Donna714/Donna714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
