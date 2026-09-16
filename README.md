@@ -8,7 +8,7 @@
 - 🌱 I’m currently Coding in: C#/Forms, python, html
 - 📫 How to reach me: WandaWhale@proton.me
 - P.S: i only have 1 GB on the proton mail so uh sorry. will check every week on the email
-- even no ones visiting around
+  even no ones visiting around
 - 😄 Pronouns: Any pronouns
 - 💬 Always Active On Discord And YouTube (Except on the school and busy time)
 - ℹ️ BWI IS DISPANDED █████
