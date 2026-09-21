@@ -20,7 +20,7 @@
 - Memory: 8GB DDR4 (expandable)
 - Storage: 954GB (1TB) NVMe SSD (ADATA LEGEND 710)
 - 2nd Storage: 931GB (1TB) Port SSD (Seagate Basic SCSI)
-- Oprating System: Windows 10 22h2
+- Oprating System: Windows 11 22h2
 ---------------------------------------------------------------------------------------
 <!---
 Donna714/Donna714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
